@@ -51,7 +51,7 @@ namespace Actividad2_Calculos
             }
             catch(Exception ex)
             {
-                MessageBox.Show("Se ha producido un error: " + ex.Message);
+                MessageBox.Show("holaaaaaaaaaaaaa" + ex.Message);
             }
         }
         private void operadorTextBox_TextChanged(object sender, TextChangedEventArgs e)
